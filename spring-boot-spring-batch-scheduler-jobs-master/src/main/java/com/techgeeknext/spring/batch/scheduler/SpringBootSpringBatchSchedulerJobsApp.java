@@ -9,6 +9,7 @@ public class SpringBootSpringBatchSchedulerJobsApp {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootSpringBatchSchedulerJobsApp.class, args);
+		System.out.println("Kishore");
 	}
 
 }
